@@ -30,8 +30,8 @@ const Footer = _ => {
             <div className="flex flex-row items-center space-x-4 justify-center md:justify-end">
               <span>
                 <a
-                  href="mailto:hey@jeffjadulco.com"
-                  aria-label="Email hey@jeffjadulco.com"
+                  href="mailto:blah@blah.com"
+                  aria-label="Email blah@blah.com"
                   title="Email"
                 >
                   <svg
@@ -47,7 +47,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://github.com/jeffjadulco"
+                  href="https://github.com/"
                   aria-label="Visit GitHub profile"
                   title="Visit GitHub profile"
                   target="_blank"
@@ -85,7 +85,7 @@ const Footer = _ => {
               </span> */}
               <span>
                 <a
-                  href="https://twitter.com/jeffjadulco"
+                  href="https://twitter.com/blahblah"
                   aria-label="Visit Twitter profile"
                   title="Visit Twitter profile"
                   target="_blank"
@@ -104,7 +104,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://www.instagram.com/jeffjadulco/"
+                  href="https://www.instagram.com/blahblah/"
                   aria-label="Visit Instagram profile"
                   title="Visit Instagram profile"
                   target="_blank"
