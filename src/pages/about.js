@@ -12,18 +12,15 @@ const About = _ => {
         <article className="prose">
           <h2>About Me</h2>
           <p>
-            I'm Jeff Jadulco, I work full-time as a game programmer at{" "}
-            <ExtLink link="https://secret6.com/">Secret 6, Inc</ExtLink>. In my
+            I'm blah blah, I work full-time as a programmer at{" "}
+            <ExtLink link="https://google.com/">Google</ExtLink>. In my
             free time, I study front-end development with React. My goal is to
             write useful apps and contribute to open source projects while
             working a full-time job.
           </p>
           <h2>Why make this website?</h2>
           <p>
-            I made this website to learn what actually goes into web
-            development. From planning, design, development, launch, and
-            maintenance. For sure there are other things that I have yet to
-            encounter, and I’m ready to learn them.
+	Blah blah blah Blah
           </p>
           <p>
             This also serves a motivation for me to continue making projects
@@ -32,7 +29,7 @@ const About = _ => {
           <h2>Why write a blog?</h2>
           <p>
             My{" "}
-            <InlinePageLink to="/blog/welcome">first blog post</InlinePageLink>{" "}
+            <InlinePageLink to="/blog/dark-mode-react-tailwind/">first blog post</InlinePageLink>{" "}
             explained it. I'd be happy if you read it :)
           </p>
           <h2>What else?</h2>
@@ -50,11 +47,7 @@ const About = _ => {
             ). I also love watching{" "}
             <ExtLink link="https://letterboxd.com/jeffjadulco/">movies</ExtLink>{" "}
             and listening to{" "}
-            <ExtLink link="https://open.spotify.com/user/jeffjads">
               awesome music
-            </ExtLink>
-            . You can catch me playing games sometimes, I play as xKore, xKored,
-            or xKoreddd.
           </p>
         </article>
       </div>
