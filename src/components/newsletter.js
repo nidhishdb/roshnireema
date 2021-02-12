@@ -22,7 +22,7 @@ export const Newsletter = () => {
         <div className="mx-auto  pt-10 flex justify-center">
           <Button
             width="widest"
-            link="https://jeffjadulco.substack.com/welcome"
+            link="https://blah/"
           >
             <span className=" text-2xl font-semibold text-on-accent">
               Subscribe{" "}

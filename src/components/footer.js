@@ -66,7 +66,7 @@ const Footer = _ => {
               </span>
               {/* <span>
                 <a
-                  href="https://www.linkedin.com/in/jeffjadulco/"
+                  href="https://www.linkedin.com/in/"
                   aria-label="Visit LinkedIn profile"
                   title="Visit LinkedIn profile"
                   target="_blank"
